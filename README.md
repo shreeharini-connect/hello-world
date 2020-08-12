@@ -1,2 +1,3 @@
 # hello-world
-my first one
+hi!
+im shreeharini. just learning to create my first repository.
